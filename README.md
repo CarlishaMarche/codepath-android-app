@@ -5,7 +5,7 @@ My prework application for the CodePath Mobile App Design Workshop.
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/PpZSkyx.gifv" width=200><br>
+<img src="https://i.imgur.com/PpZSkyx.gif" width=200><br>
 
 
 ### Required User Stories
