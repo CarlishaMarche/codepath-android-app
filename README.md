@@ -5,7 +5,7 @@ My prework application for the CodePath Mobile App Design Workshop.
 
 ### App Walk-though
 
-<img src="https://user-images.githubusercontent.com/6396431/45259986-91f0b780-b38e-11e8-9a32-f64920fc35ed.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/6396431/45466094-fd0ef680-b6cc-11e8-8f20-706ba2bedd16.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
